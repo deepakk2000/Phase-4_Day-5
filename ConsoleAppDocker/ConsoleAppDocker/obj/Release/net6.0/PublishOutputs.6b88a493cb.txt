@@ -1,0 +1,5 @@
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\publish\ConsoleAppDocker.exe
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\publish\ConsoleAppDocker.dll
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\publish\ConsoleAppDocker.deps.json
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\publish\ConsoleAppDocker.runtimeconfig.json
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\publish\ConsoleAppDocker.pdb

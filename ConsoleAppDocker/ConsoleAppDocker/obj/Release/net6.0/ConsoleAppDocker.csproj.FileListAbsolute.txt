@@ -1,0 +1,14 @@
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\ConsoleAppDocker.exe
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\ConsoleAppDocker.deps.json
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\ConsoleAppDocker.runtimeconfig.json
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\ConsoleAppDocker.dll
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\bin\Release\net6.0\ConsoleAppDocker.pdb
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.AssemblyInfoInputs.cache
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.AssemblyInfo.cs
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.csproj.CoreCompileInputs.cache
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.dll
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\refint\ConsoleAppDocker.dll
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.pdb
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ConsoleAppDocker.genruntimeconfig.cache
+D:\Phase 4\Assignment\Day-5\ConsoleAppDocker\ConsoleAppDocker\obj\Release\net6.0\ref\ConsoleAppDocker.dll
